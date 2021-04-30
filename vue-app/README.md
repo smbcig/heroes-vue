@@ -24,7 +24,7 @@ Hosted in [Azure](https://azure.microsoft.com/free/?WT.mc_id=javascript-0000-jop
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/johnpapa/heroes-vue.git
+   git clone https://github.com/smbcig/heroes-vue.git
    cd heroes-vue/vue-app
    ```
 
